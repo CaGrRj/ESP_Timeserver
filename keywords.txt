@@ -1,0 +1,20 @@
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+TimeServer	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+initiate	KEYWORD2
+startTimeUpdate	KEYWORD2
+tryReceiveTime	KEYWORD2
+getTimestamp	KEYWORD2
+getDateTimestamp	KEYWORD2
+getDate	KEYWORD2
+getTimeTimestamp	KEYWORD2
+getTime	KEYWORD2
+getLastUpdate	KEYWORD2
+
